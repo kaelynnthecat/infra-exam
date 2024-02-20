@@ -1,4 +1,4 @@
-# infra INT
+# network infrastructure INT
 
 <h1> GESTION </h1>
 <p>
