@@ -63,11 +63,11 @@
 <p>
   SERVER : KYLE <br>
   DOMAINE : ABC.FR <br>
-  NAME : <br>
-  IP : <br>
+  NAME : SRV-LIBRENMS<br>
+  IP : 192.168.4.106<br>
   OS : DEBIAN 12 <br>
   SERVICES : LIBRENMS <br>
   ID ADMIN : root // !nterf0r <br>
   ID USER : interfor // interfor <br>
-  ID ADMIN WEB : <br>
+  ID ADMIN WEB : admin // ABCroot$<br>
 </p>
