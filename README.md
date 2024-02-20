@@ -2,72 +2,72 @@
 
 <h1> GESTION </h1>
 <p>
-  SERVER : MARTY
-  DOMAINE : ABC.FR
-  NAME : VM-GESTION
-  IP : 192.168.4.11
-  OS : DEBIAN 12
-  SERVICES : NEXTCLIUD + DOLIBARR
-  ID ADMIN : root // ABCroot$
-  ID USER : utilisateur // utilisateur
+  SERVER : MARTY <br>
+  DOMAINE : ABC.FR <br>
+  NAME : VM-GESTION <br>
+  IP : 192.168.4.11 <br>
+  OS : DEBIAN 12 <br>
+  SERVICES : NEXTCLIUD + DOLIBARR <br>
+  ID ADMIN : root // ABCroot$ <br>
+  ID USER : utilisateur // utilisateur <br>
 </p>
 
 <h1> WINDOWS SERVER  2022 PRIMARY </h1>
 <p>
-  SERVER : KYLE
-  DOMAINE : ABC.FR
-  NAME : VM-KYLE
-  IP : 192.168.4.10
-  OS : WINDOWS SERVER 2022
-  SERVICES : ACTIVE DIRECTORY + DNS + DHCP
-  ID ADMIN : ABC\Administrateur // ABCroot$
+  SERVER : KYLE <br>
+  DOMAINE : ABC.FR <br>
+  NAME : VM-KYLE <br>
+  IP : 192.168.4.10 <br>
+  OS : WINDOWS SERVER 2022 <br>
+  SERVICES : ACTIVE DIRECTORY + DNS + DHCP <br>
+  ID ADMIN : ABC\Administrateur // ABCroot$ <br>
 </p>
 
 <h1> GLPI </h1>
 <p>
-  SERVER : MELMAN
-  DOMAINE : ABC.FR
-  NAME : VM-GLPI
-  IP : 192.168.5.11
-  OS : DEBIAN 12
-  SERVICES : GLPI
-  ID ADMIN : root // ABCroot$
-  ID USER : utilisateur // utilisateur
+  SERVER : MELMAN <br>
+  DOMAINE : ABC.FR <br>
+  NAME : VM-GLPI <br>
+  IP : 192.168.5.11 <br>
+  OS : DEBIAN 12 <br>
+  SERVICES : GLPI <br>
+  ID ADMIN : root // ABCroot$ <br>
+  ID USER : utilisateur // utilisateur <br>
 </p>
 
 <h1> WINDOWS SERVER  2022 SECONDARY </h1>
 <p>
-  SERVER : KENNY
-  DOMAINE : ABC.FR
-  NAME : VM-KYLE
-  IP : 192.168.5.10
-  OS : WINDOWS SERVER 2022
-  SERVICES : ACTIVE DIRECTORY + DNS + DHCP (BACKUP)
-  ID ADMIN : ABC\Administrateur // ABCroot$
+  SERVER : KENNY <br>
+  DOMAINE : ABC.FR <br>
+  NAME : VM-KYLE <br>
+  IP : 192.168.5.10 <br>
+  OS : WINDOWS SERVER 2022 <br>
+  SERVICES : ACTIVE DIRECTORY + DNS + DHCP (BACKUP) <br>
+  ID ADMIN : ABC\Administrateur // ABCroot$ <br>
 </p>
 
 <h1> CHECKMK </h1>
 <p>
-  SERVER : KENNY
-  DOMAINE : ABC.FR
-  NAME : DEBIAN-CHECKMK
-  IP : 192.168.5.115/monitoring
-  OS : DEBIAN 12
-  SERVICES : CHECKMK
-  ID ADMIN : root // ABCroot$
-  ID USER : utilisateur // ABCroot$
-  ID ADMIN WEB : cmkadmin // ABCroot$
+  SERVER : KENNY <br>
+  DOMAINE : ABC.FR <br>
+  NAME : DEBIAN-CHECKMK <br>
+  IP : 192.168.5.115/monitoring <br>
+  OS : DEBIAN 12 <br>
+  SERVICES : CHECKMK <br>
+  ID ADMIN : root // ABCroot$ <br>
+  ID USER : utilisateur // ABCroot$ <br>
+  ID ADMIN WEB : cmkadmin // ABCroot$ <br>
 </p>
 
 <h1> LIBRENMS </h1>
 <p>
-  SERVER : KYLE
-  DOMAINE : ABC.FR
-  NAME :
-  IP :
-  OS : DEBIAN 12
-  SERVICES : LIBRENMS
-  ID ADMIN : root // !nterf0r
-  ID USER : interfor // interfor
-  ID ADMIN WEB :
+  SERVER : KYLE <br>
+  DOMAINE : ABC.FR <br>
+  NAME : <br>
+  IP : <br>
+  OS : DEBIAN 12 <br>
+  SERVICES : LIBRENMS <br>
+  ID ADMIN : root // !nterf0r <br>
+  ID USER : interfor // interfor <br>
+  ID ADMIN WEB : <br>
 </p>
