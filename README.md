@@ -51,7 +51,7 @@
   SERVER : KENNY <br>
   DOMAINE : ABC.FR <br>
   NAME : DEBIAN-CHECKMK <br>
-  IP : 192.168.5.115/monitoring <br>
+  IP : 192.168.5.15/monitoring <br>
   OS : DEBIAN 12 <br>
   SERVICES : CHECKMK <br>
   ID ADMIN : root // ABCroot$ <br>
