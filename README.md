@@ -16,7 +16,7 @@
 <p>
   SERVER : KYLE <br>
   DOMAINE : ABC.FR <br>
-  NAME : VM-KYLE <br>
+  NAME : VM-KYLE - AD<br>
   IP : 192.168.4.10 <br>
   OS : WINDOWS SERVER 2022 <br>
   SERVICES : ACTIVE DIRECTORY + DNS + DHCP <br>
@@ -39,7 +39,7 @@
 <p>
   SERVER : KENNY <br>
   DOMAINE : ABC.FR <br>
-  NAME : VM-KYLE <br>
+  NAME : VM-KYLE - AD2<br>
   IP : 192.168.5.10 <br>
   OS : WINDOWS SERVER 2022 <br>
   SERVICES : ACTIVE DIRECTORY + DNS + DHCP (BACKUP) <br>
@@ -70,4 +70,17 @@
   ID ADMIN : root // !nterf0r <br>
   ID USER : interfor // interfor <br>
   ID ADMIN WEB : admin // ABCroot$<br>
+</p>
+
+<h1> FOG </h1>
+<p>
+  SERVER : KYLE <br>
+  DOMAINE : ABC.FR <br>
+  NAME : SRV-FOG<br>
+  IP : 192.168.4.101<br>
+  OS : DEBIAN 12 <br>
+  SERVICES : FOG <br>
+  ID ADMIN : root // !nterf0r <br>
+  ID USER : interfor // interfor <br>
+  ID ADMIN WEB : fog // password<br>
 </p>
