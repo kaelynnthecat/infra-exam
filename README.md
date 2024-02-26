@@ -7,7 +7,7 @@
   NAME : VM-GESTION <br>
   IP : 192.168.4.11 <br>
   OS : DEBIAN 12 <br>
-  SERVICES : NEXTCLIUD + DOLIBARR <br>
+  SERVICES : NEXTCLOUD + DOLIBARR <br>
   ID ADMIN : root // ABCroot$ <br>
   ID USER : utilisateur // utilisateur <br>
 </p>
